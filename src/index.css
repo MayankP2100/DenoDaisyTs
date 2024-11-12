@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (width > 768px) {
+  :root {
+    overflow-y: hidden;
+  }
+}
